@@ -1,2 +1,6 @@
-# alsa-introduction
-An introduction to ALSA project
+# An introduction to ALSA project
+
+This is an introduction to the ALSA project. Because the official documentation is outdated and not detailed enough.
+
+
+
