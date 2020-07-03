@@ -1,5 +1,5 @@
 # Table of contents
 
-* [An introduction to ALSA project](README.md)
+* [ALSA 入门介绍](README.md)
 * [ALSA的历史](alsa-history.md)
 
